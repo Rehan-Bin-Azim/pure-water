@@ -1,0 +1,6 @@
+{
+  "name": "PURE — Every Drop Tells a Story",
+  "description": "An award-winning scroll-driven 3D cinematic storytelling journey from a single drop in glass to flowing mountain rivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
